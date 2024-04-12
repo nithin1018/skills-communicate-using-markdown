@@ -8,3 +8,6 @@ Initialized empty Git repository in "D:\Appus\WebDev\iedc-clone\entrepreneurship
 ``` javascript
 var myVar = "Hello, Elliot!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
